@@ -1,0 +1,8 @@
+import static javax.swing.JOptionPane. *;
+class HeiVerden{
+	public static void main(String[]args)(
+		System.out.println("Hei Verden!");
+		showMessageDialog(null, "Hei Verden");
+	) //metoden main slutter her
+} //klassen HeiVerden slutter her
+}
